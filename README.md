@@ -10,7 +10,6 @@ This project aims to address these issues by developing a comprehensive car rent
 
 Project Description---
 
-Scope of the Work:-
 This project involves designing and implementing a Java-based car rental system that allows customers to search, book, and manage vehicle rentals.
 Rental agencies, Costumers can list their vehicles, manage bookings.
 
@@ -18,7 +17,5 @@ Project Modules:-
 User Registration and Authentication
 Booking and Reservation System
 Availability
-Real-time Tracking
-Reporting and Analytics
 Customer Support and Assistance
-Data Security and Privacy
+
